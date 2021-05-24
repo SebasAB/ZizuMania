@@ -64,7 +64,7 @@ public class Player : MonoBehaviour
         myRigidBody.velocity = climbVelocity;
         myRigidBody.gravityScale = 0; 
 
-        bool playerHasVerticalSpeed = Mathf.Abs(myRigidBody.velocity.y) > Mathf.Epsilon;
+        bool playerHasVerticalSpeed = Mathf.Abs(myRigidBody.velocity.y) > 0;
         myAnimator.SetBool("Climb", playerHasVerticalSpeed); 
     }
 
@@ -83,7 +83,7 @@ public class Player : MonoBehaviour
 
     private void Die()
     {
-        if(myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemy")))
+        if(myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemy", "Hazards")))
         {
             isAlive = false; 
             myAnimator.SetTrigger("Die");
