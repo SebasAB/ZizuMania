@@ -517,7 +517,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -0.5}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &547135337
@@ -22115,11 +22115,11 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 9.049383, y: 20.993408}
+    - - {x: 4.8373356, y: 21.105164}
       - {x: -13.714957, y: 20.937927}
       - {x: -13.735193, y: -5.568197}
       - {x: 27.692036, y: -5.742227}
-      - {x: 27.591343, y: 21.3787}
+      - {x: 27.360544, y: 21.155193}
 --- !u!95 &855088453
 Animator:
   serializedVersion: 3
@@ -22322,8 +22322,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -7, y: 97.7}
-  m_SizeDelta: {x: -640, y: -346}
+  m_AnchoredPosition: {x: -10.799988, y: 82.2}
+  m_SizeDelta: {x: -672.3751, y: -466.1164}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1775124818
 MonoBehaviour:
@@ -22526,11 +22526,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4794937101088302824, guid: b09db3f32a092d24e8da302ab0aaf848, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 79.475266
+      value: 76.95209
       objectReference: {fileID: 0}
     - target: {fileID: 4794937101088302824, guid: b09db3f32a092d24e8da302ab0aaf848, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 20.987839
+      value: 20.989645
       objectReference: {fileID: 0}
     - target: {fileID: 4794937101088302824, guid: b09db3f32a092d24e8da302ab0aaf848, type: 3}
       propertyPath: m_LocalPosition.z

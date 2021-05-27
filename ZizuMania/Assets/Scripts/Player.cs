@@ -64,7 +64,7 @@ public class Player : MonoBehaviour
         myRigidBody.velocity = climbVelocity;
         myRigidBody.gravityScale = 0; 
 
-        bool playerHasVerticalSpeed = Mathf.Abs(myRigidBody.velocity.y) > 0;
+        bool playerHasVerticalSpeed = Mathf.Abs(myRigidBody.velocity.y) > Mathf.Epsilon;
         myAnimator.SetBool("Climb", playerHasVerticalSpeed); 
     }
 
