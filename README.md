@@ -27,6 +27,7 @@ La propuesta que se muestra a continuación es la de un juego plataformas retado
 - [ ] Coleccionables: Monedas 
 - [ ] Interfaz: Tiempo y puntuación 
 - [ ] Música y efectos de sonido 
+- [ ] Más niveles
 
 ## Imágenes 
 
