@@ -26,7 +26,7 @@ La propuesta que se muestra a continuación es la de un juego plataformas retado
 - [x] Peligros: lava y pinchos en el suelo 
 - [ ] Coleccionables: Monedas 
 - [ ] Interfaz: Tiempo y puntuación 
-- [ ] Música y efectos de sonido 
+- [ ] Efectos de sonido 
 - [ ] Más niveles
 
 ## Imágenes 
