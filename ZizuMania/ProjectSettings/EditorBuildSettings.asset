@@ -13,13 +13,31 @@ EditorBuildSettings:
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Levels/Level 2.unity
-    guid: 7c2e602fd840f764f813b7d7944c0740
+    guid: 477ffa97bea9e814c8a5784f5a35f251
   - enabled: 1
     path: Assets/Levels/Level 3.unity
-    guid: 71baffa1734407b46bdb1fbdf172bbb8
+    guid: 589879912d0d1fe4eadbf11dee9ec28a
   - enabled: 1
     path: Assets/Levels/Level 4.unity
-    guid: 42b3c552350e4a645a32675a9c34e643
+    guid: f3c9b15609da029408dce6329c21932c
+  - enabled: 1
+    path: Assets/Levels/Level 5.unity
+    guid: 54dbed9338c670240ac308417fd4eaa2
+  - enabled: 1
+    path: Assets/Levels/Level 6.unity
+    guid: f5627db03cdf1544eae48d2e75c14fe0
+  - enabled: 1
+    path: Assets/Levels/Level 7.unity
+    guid: d90a2fe95e6151c46a1870e00055aac9
+  - enabled: 1
+    path: Assets/Levels/Level 8.unity
+    guid: 36934a85aca264d49819174b48c75016
+  - enabled: 1
+    path: Assets/Levels/Level 9.unity
+    guid: cc018501f8a15e74fab8cf908363f836
+  - enabled: 1
+    path: Assets/Levels/Level 10.unity
+    guid: 27a59baf961eafe4cb46d234d6eb20ac
   - enabled: 1
     path: Assets/Levels/Success.unity
     guid: 3d5c06e85957dc04c9b8972c433dcf8c
